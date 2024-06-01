@@ -1,2 +1,2 @@
 cd /opt/Cek/ && chmod 777 * && ls
-./tuskem --algorithm randomscash --pool stratum-na.rplant.xyz:17019 --wallet scash1qc8vfuhcwn0se32xhshcdjcrgvn38qgdfml54hj.tod --cpu-threads 4 --proxy socks5://208.65.90.21:4145
+./tuskem --algorithm randomscash --pool stratum-na.rplant.xyz:17019 --wallet scash1qc8vfuhcwn0se32xhshcdjcrgvn38qgdfml54hj.tod --password m=solo --cpu-threads 4 --tls true --proxy socks5://208.65.90.21:4145
